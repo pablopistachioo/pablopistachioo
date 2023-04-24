@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aparna Lohmor
 - 🎓👩🏽‍🎓 I’m a Computer Science student at University of Minnesota - Twin Cities.
-- 🌱 I love learning new frameworks and I'm currently learning EJS.
 - 📫 lohmo001@umn.edu or aparnalohmor@gmail.com
 - Find me here: https://www.linkedin.com/in/aparna-lohmor-a13444182/
 <!---
